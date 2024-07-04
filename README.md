@@ -1,4 +1,4 @@
-👋 Hi, I’m @darkEmpire-lang  
+👋 Hi, I’m pasindu 
 👀 Interested in elegant code solutions and web development.  
 🌱 Learning MERN stack as an SE undergrad at SLIIT.  
 💞️ Looking to collaborate on frontend projects.  
