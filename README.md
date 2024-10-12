@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **pasindu maduranga*  
+# 👋 Hi, I’m *pasindu maduranga*  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=darkEmpire-lang.darkEmpire-lang)
 
 ### 👀 Interested in elegant code solutions and web development  
